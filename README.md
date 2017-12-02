@@ -4,11 +4,11 @@
 
 
 ### Sample : Generate Token
-End-point :
-http://localhost:64384/v1/accounts/auth
+#### End-point :
+#### http://localhost:64384/v1/accounts/auth
 
-Body:
-{
+#### Body:
+#### {
 	"clientid":"123",
 	"username":"bdarley",
 	"password":"password",
@@ -17,7 +17,7 @@ Body:
 }
 
 ### Sample : Response
-{
+#### {
     "code": "999",
     "message": "OK",
     "data": {
@@ -31,9 +31,9 @@ Body:
 
 ### Sample : Refresh Token
 
-End-point :
-http://localhost:64384/v1/accounts/auth
-Body:
+#### End-point :
+#### http://localhost:64384/v1/accounts/auth
+#### Body:
 {
 		"clientId": "123",
 		"granttype":"refreshToken",
@@ -41,7 +41,7 @@ Body:
 }
 
 ### Sample : Refresh Token Response 
-{
+#### {
     "code": "999",
     "message": "OK",
     "data": {
