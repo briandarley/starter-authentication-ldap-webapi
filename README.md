@@ -1,9 +1,9 @@
 # starter-authentication-ldap-webapi
 
-##Starter Project for simple Token/Bearer Authentication Using LDAP
+## Starter Project for simple Token/Bearer Authentication Using LDAP
 
 
-###Sample : Generate Token
+### Sample : Generate Token
 End-point :
 http://localhost:64384/v1/accounts/auth
 
@@ -16,7 +16,7 @@ Body:
 	"clientsecret":"secret"
 }
 
-###Sample : Response
+### Sample : Response
 {
     "code": "999",
     "message": "OK",
@@ -29,7 +29,7 @@ Body:
 
 
 
-###Sample : Refresh Token
+### Sample : Refresh Token
 
 End-point :
 http://localhost:64384/v1/accounts/auth
@@ -40,7 +40,7 @@ Body:
 		"refreshToken": "41d55c2ea3a3456fb555713720151aed"
 }
 
-###Sample : Refresh Token Response 
+### Sample : Refresh Token Response 
 {
     "code": "999",
     "message": "OK",
