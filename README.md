@@ -1,7 +1,7 @@
 # starter-authentication-ldap-webapi
 
 ## Starter Project for simple Token/Bearer Authentication Using LDAP
-
+### Also includes in-memory store, which is currently implemented
 
 ### Sample : Generate Token
 #### End-point :
