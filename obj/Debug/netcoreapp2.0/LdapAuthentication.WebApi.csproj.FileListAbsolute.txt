@@ -1,0 +1,11 @@
+F:\Projects\Sandbox\oath-test\bin\Debug\netcoreapp2.0\LdapAuthentication.WebApi.deps.json
+F:\Projects\Sandbox\oath-test\bin\Debug\netcoreapp2.0\LdapAuthentication.WebApi.runtimeconfig.json
+F:\Projects\Sandbox\oath-test\bin\Debug\netcoreapp2.0\LdapAuthentication.WebApi.runtimeconfig.dev.json
+F:\Projects\Sandbox\oath-test\bin\Debug\netcoreapp2.0\LdapAuthentication.WebApi.dll
+F:\Projects\Sandbox\oath-test\bin\Debug\netcoreapp2.0\LdapAuthentication.WebApi.pdb
+F:\Projects\Sandbox\oath-test\obj\Debug\netcoreapp2.0\LdapAuthentication.WebApi.csprojResolveAssemblyReference.cache
+F:\Projects\Sandbox\oath-test\obj\Debug\netcoreapp2.0\LdapAuthentication.WebApi.csproj.CoreCompileInputs.cache
+F:\Projects\Sandbox\oath-test\obj\Debug\netcoreapp2.0\LdapAuthentication.WebApi.AssemblyInfoInputs.cache
+F:\Projects\Sandbox\oath-test\obj\Debug\netcoreapp2.0\LdapAuthentication.WebApi.AssemblyInfo.cs
+F:\Projects\Sandbox\oath-test\obj\Debug\netcoreapp2.0\LdapAuthentication.WebApi.dll
+F:\Projects\Sandbox\oath-test\obj\Debug\netcoreapp2.0\LdapAuthentication.WebApi.pdb
