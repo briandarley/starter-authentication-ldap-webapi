@@ -45,7 +45,7 @@ Body:
     "code": "999",
     "message": "OK",
     "data": {
-        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYmRhcmxleSIsInN1YiI6IjEyMyIsImp0aSI6IjA1NGQyZWExLWNlODEtNDQzNS1hMTA3LWQyNTkzODQxY2I2YSIsImlhdCI6IjEyLzIvMjAxNyAxMDoxNDoxNiBQTSIsIm5iZiI6MTUxMjI1Mjg1NiwiZXhwIjoxNTEyMjU0NjU2LCJpc3MiOiJodHRwOi8vaXRzLnVuYy5lZHUiLCJhdWQiOiJodHRwOi8vaXRzLnVuYy5lZHUifQ.tSRinv4fT5p6WaY6RbTgEf-NGo_9ssHxKflb2VOHHYA",
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHR.....",
         "expiresIn": 120,
         "refreshToken": "9852e47557ab42a3916e6b3d98d1747c"
     }
